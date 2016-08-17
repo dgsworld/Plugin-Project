@@ -1,0 +1,809 @@
+<?xml version='1.0' ?>
+
+<offer>
+    <data>
+        <name>X1 Starter Quad Play</name>
+        <price>$129.99</price>
+        <package>monthly</package>
+        <description>XFINITY Home, XFINITY TV Digital, XFINITY INTERNET </description>
+        <custom>
+            <Internet>
+                <Add-Ons>
+                  <category>Extreme 150 - Monthly Charges: $15.00</category>
+                  <category>Blast</category>
+                </Add-Ons>
+            </Internet>
+            
+            <XfinityHome>
+                <Add-Ons>
+                  <category>Eco Saver - Monthly Charges: $6.95</category>
+                  <category>Takeover</category>
+                  <category>Fire Monitoring</category>
+                  <category>Enhanced Video Monitoring - Monthly Charges: $6.95</category>
+                  <category>XFINITY HOme Warranty Plan - Monthly Charges: $4.95</category>
+                </Add-Ons>
+                <Devices>
+                  <category>Motion Sensor</category>
+                  <category>Wireless Router</category>
+                  <category>Door and Window Sensor</category>
+                  <category>Touch Screen</category>
+                  <category>Wireless Keypad</category>
+                </Devices>
+            </XfinityHome>
+            
+            <Phone>
+                <Add-Ons>
+                    <category>Xfinity Voice Activation Fee</category>
+                    <category>
+                        <Title>Directory Listing - Primary Choice</Title>
+                        <Subcategory>Non-Published Listing - Monthly Charges: $4.95</Subcategory>
+                        <Subcategory>Published Listing</Subcategory>
+                    </category>
+                    <category>
+                        <Title>Carefree Minutes - Latino</Title>
+                        <Subcategory>CareFree Minutes Latin America 300 minutes - Monthly Charges: $9.95</Subcategory>
+                        <Subcategory>CareFree Minutes Worldwide 300 minutes - Monthly Charges: $9.95</Subcategory>
+                    </category>
+                    <category> 
+                        <Title>(POS)XV Battery Backup Choice - NO Default Choice</Title>
+                        <Subcategory>Voice Backup Battery - Onetime Charges: $35.00</Subcategory>
+                        <Subcategory>Voice Backup Battery Decline</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Devices>
+                    <category>
+                        <Title>CDV Equipment Choice - XB3/Own</Title>
+                        <Subcategory>Wireless Gateway - Monthly Charges: $10.00</Subcategory>
+                        <Subcategory>Voice and Internet Modem Owned</Subcategory>
+                    </category>
+                </Devices>
+            </Phone>
+            
+            <Video>
+                <Add-Ons>
+                    <category>The Movie Channel - Monthly Charges: $12.00</category>
+                    <category>Showtime - Monthly Charges: $12.00</category>
+                    <category>Cinemax - Monthly Charges: $12.00</category>
+                    <category>Starz - Monthly Charges: $12.00</category>
+                    <category>Streampix</category>
+                    <category>HBO - Monthly Charges: $15.00</category>
+                    <category>contract Required</category>
+                    <category>Latino - Monthly Charges $9.95</category>
+                    <category> Sports Tier - Monthly Charges: $9.95</category>
+                    <category>X1 Service Activation</category>
+                    <category> XH Contract Required</category>
+                    <category>
+                        <Title>MLB Extra Inning Choice</Title>
+                        <Subcategory>MLB Extra Innings 4 pay - Onetime Charges: $139.00</Subcategory>
+                        <Subcategory>MLb Extra Innings 1 pay - Onetime Charges: $139.00</Subcategory>
+                    </category>
+                    <category>
+                        <Title>MLS Direct Kick Regular Season choice</Title>
+                        <Subcategory>MLS Direct Kick - 4 Monthly payment - Onetime Charges: $59.00</Subcategory>
+                        <Subcategory>MLS Direct Kick - 1 Monthly Payment - Onetime Charges: $59.00</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Device>
+                    <category>X1 HD Service</category>
+                    <category>X1 Digital Service</category>
+                    <category>X1 CloudDVR - Monthly Charges: $7.99 </category>
+                </Device>
+            </Video>
+        </custom>
+    </data>
+    
+    <data>
+        <name>X1 Preffered Plus Quarter Play</name>
+        <price>$179.99</price>
+        <package>monthly</package>
+        <description>XFINITY Home, XFINITY TV Digital, XFINITY INTERNET</description>
+        <custom>
+            <Internet>
+                <Add-Ons>
+                    <category>Extreme 150</category>
+                </Add-Ons>
+            </Internet>
+            
+            <XfinityHome>
+                <Add-Ons>
+                    <category>Eco Saver - Monthly: $6.95</category>
+                    <category>Takeover</category>
+                    <category>Fire Monitoring</category>
+                    <category>Enhanced Video Monitoring - Monthly Charges: $6.95</category>
+                    <category>XFINITY Home Warranty Plan - Monthly Charges: $4.95</category>
+                </Add-Ons>
+                
+                <Devices>
+                    <category>Motion Sensor</category>
+                    <category>Wireless Router</category>
+                    <category>Door And Window Sensor</category>
+                    <category>Touch Screen</category>
+                    <category>Wireless Keypad</category>
+                </Devices>
+            </XfinityHome>
+            
+            <Phone>
+                <Add-Ons>
+                     <category>Xfinity Voice Activation Fee</category>
+                    <category>
+                        <Title>Directory Listing- Primary Choice</Title>
+                        <Subcategory>Non-Published Listing - Monthly Charges: $4.95</Subcategory>
+                        <Subcategory>Published Listing</Subcategory>
+                    </category>
+                    <category>
+                        <Title>Carefree Minutes - Latino</Title>
+                        <Subcategory>CareFree Minutes Latin America 300 minutes - Monthly Charges: $9.95</Subcategory>
+                        <Subcategory>CareFree Minutes Worldwide 300 minutes - Monthly Charges: $9.95</Subcategory>
+                    </category>
+                    <category> 
+                        <Title>(POS)XV Battery Backup Choice - NO Default Choice</Title>
+                        <Subcategory>Voice Backup Battery - Onetime Charges: $35.00</Subcategory>
+                        <Subcategory>Voice Backup Battery Decline</Subcategory>
+                    </category>
+                
+                </Add-Ons>
+                
+                <Devices>
+                    <category>Wireless Gateway - Monthly Charges: $10.00</category>
+                </Devices>
+            
+            </Phone>
+            
+            <Video>
+                <Add-Ons>
+                    <category>The Movie Channel - Monthly Charges: $12.00</category>
+                    <category>Showtime - Monthly Charges: $12.00</category>
+                    <category>Cinemax - Monthly Charges: $12.00</category>
+                    <category>Starz - Monthly Charges: $12.00</category>
+                    <category>Streampix</category>
+                    <category>HBO - Monthly Charges: $15.00</category>
+                    <category>contract Required</category>
+                    <category>Latino - Monthly Charges: $9.95</category>
+                    <category> Sports Tier - Monthly Charges: $9.95</category>
+                    <category>X1 Service Activation</category>
+                    <category> XH Contract Required</category>
+                    <category>
+                        <Title>MLB Extra Inning Choice</Title>
+                        <Subcategory>MLB Extra Innings 4 pay - onetime Charges: $139.00</Subcategory>
+                        <Subcategory>MLb Extra Innings 1 pay - Onetime Charges: $139.00</Subcategory>
+                    </category>
+                    <category>
+                        <Title>MLS Direct Kick Regular Season choice</Title>
+                        <Subcategory>MLS Direct Kick - 4 Monthly payment - Onetime Charges: $59.00</Subcategory>
+                        <Subcategory>MLS Direct Kick - 1 Monthly Payment - Onetime Charges: $59.00</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Device>
+                    <category>X1 HD Service</category>
+                    <category>X1 CloudDVR - Monthly Charges: $7.99 </category>
+                </Device>
+            </Video>
+        </custom>
+    </data>
+    
+    
+    <data>
+        <name>3300 Latino Paquete Triple</name>
+        <price>$99.99</price>
+        <package>monthly</package>
+        <description>XFINITY Home, XFINITY TV Digital, XFINITY INTERNET</description>
+        <custom>
+             <Internet>
+                <Add-Ons>
+                  <category>Blast</category>
+                </Add-Ons>
+            </Internet>
+            
+            <Phone>
+                <Add-Ons>
+                    <category>Carefree Minutes Latin America 300 minutes</category>
+                    <category>Xfinity Voice Activation Fee</category>
+                    <category>
+                        <Title>Directory Listing - Primary Choice</Title>
+                        <Subcategory>Non-Published Listing - Monthly Charges: $4.95</Subcategory>
+                        <Subcategory>Published Listing</Subcategory>
+                    </category>
+                    <category>
+                        <Title>Carefree Minutes - Multilatino</Title>
+                        <Subcategory>CareFree Minutes Western Europe 100 minutes - Monthly Charges: $4.95</Subcategory>
+                        <Subcategory>CareFree Minutes Asia 100 minutes - Monthly Charges: $4.95</Subcategory>
+                    </category>
+                    <category> 
+                        <Title>(POS)XV Battery Backup Choice - NO Default Choice</Title>
+                        <Subcategory>Voice Backup Battery - Onetime Charges: $35.00</Subcategory>
+                        <Subcategory>Voice Backup Battery Decline</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Devices>
+                    <category>
+                        <Title>CDV Equipment Choice - XB3/Own</Title>
+                        <Subcategory>Wireless Gateway - Monthly Charges: $10.00</Subcategory>
+                        <Subcategory>Voice and Internet Modem Owned</Subcategory>
+                    </category>
+                </Devices>
+            </Phone>
+            
+            <Video>
+                <Add-Ons>
+                    <category>The Movie Channel - Monthly Charges: $12.00</category>
+                    <category>Showtime - Monthly Charges: $12.00</category>
+                    <category>Cinemax - Monthly Charges: $12.00</category>
+                    <category>Starz - Monthly Charges: $12.00</category>
+                    <category>Streampix</category>
+                    <category>HBO - Monthly Charges: $15.00</category>
+                    <category>contract Required</category>
+                    <category>Latino - Monthly Charges: $9.95</category>
+                    <category> Sports Tier - Monthly Charges: $9.95</category>
+                    <category>X1 Service Activation</category>
+                    <category> XH Contract Required</category>
+                    <category>
+                        <Title>MLB Extra Inning Choice</Title>
+                        <Subcategory>MLB Extra Innings 4 pay - onetime Charges: $139.00</Subcategory>
+                        <Subcategory>MLb Extra Innings 1 pay - Onetime Charges: $139.00</Subcategory>
+                    </category>
+                    <category>
+                        <Title>MLS Direct Kick Regular Season choice</Title>
+                        <Subcategory>MLS Direct Kick - 4 Monthly payment - Onetime Charges: $59.00</Subcategory>
+                        <Subcategory>MLS Direct Kick - 1 Monthly Payment - Onetime Charges: $59.00</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Device>
+                    <category>X1 HD Service</category>
+                    <category>X1 Digital Service</category>
+                    <category>X1 CloudDVR - Monthly Charges: $7.99 </category>
+                </Device>
+            </Video>
+        </custom>
+    </data>
+    
+    <data>
+        <name>X1 Starter Triple Play</name>
+        <price>$109.99</price>
+        <package>monthly</package>
+        <description>XFINITY On Demand, XFINITY Voice, XFINITY INTERNET</description>
+        <custom>
+            <Internet>
+                <Add-Ons>
+                  <category>
+                    <Title>Speed Tier Upgrades - Blast</Title>
+                    <Subcategory>Extreme 150 - Monthly Charges: $15.00</Subcategory>
+                    <Subcategory>Blast</Subcategory>
+                  </category>
+                </Add-Ons>
+            </Internet>
+    
+            <Phone>
+                <Add-Ons>
+                    <category>Xfinity Voice Activation Fee</category>
+                    <category>
+                        <Title>Directory Listing - Primary Choice</Title>
+                        <Subcategory>Non-Published Listing - Monthly Charges: $4.95</Subcategory>
+                        <Subcategory>Published Listing</Subcategory>
+                    </category>
+                    <category>
+                        <Title>Carefree Minutes - Latino</Title>
+                        <Subcategory>CareFree Minutes Latin America 300 minutes - Monthly Charges: $9.95</Subcategory>
+                        <Subcategory>CareFree Minutes Worldwide 300 minutes - Monthly Charges: $9.95</Subcategory>
+                    </category>
+                    <category> 
+                        <Title>(POS)XV Battery Backup Choice - NO Default Choice</Title>
+                        <Subcategory>Voice Backup Battery - Onetime Charges: $35.00</Subcategory>
+                        <Subcategory>Voice Backup Battery Decline</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Devices>
+                    <category>
+                        <Title>CDV Equipment Choice - XB3/Own</Title>
+                        <Subcategory>Wireless Gateway - Monthly Charges: $10.00</Subcategory>
+                        <Subcategory>Voice and Internet Modem Owned</Subcategory>
+                    </category>
+                </Devices>
+            </Phone>
+            
+            <Video>
+                <Add-Ons>
+                    <category>The Movie Channel - Monthly Charges: $12.00</category>
+                    <category>Showtime - Monthly Charges: $12.00</category>
+                    <category>Cinemax - Monthly Charges: $12.00</category>
+                    <category>Starz - Monthly Charges: $12.00</category>
+                    <category>Streampix</category>
+                    <category>HBO - Monthly Charges: $15.00</category>
+                    <category>contract Required</category>
+                    <category>Latino - Monthly Charges: $9.95</category>
+                    <category> Sports Tier - Monthly Charges: $9.95</category>
+                    <category>X1 Service Activation</category>
+                    <category> XH Contract Required</category>
+                    <category>
+                        <Title>MLB Extra Inning Choice</Title>
+                        <Subcategory>MLB Extra Innings 4 pay - Onetime Charges: $139.00</Subcategory>
+                        <Subcategory>MLb Extra Innings 1 pay - Onetime Charges: $139.00</Subcategory>
+                    </category>
+                    <category>
+                        <Title>MLS Direct Kick Regular Season choice</Title>
+                        <Subcategory>MLS Direct Kick - 4 Monthly payment - Onetime Charges: $59.00</Subcategory>
+                        <Subcategory>MLS Direct Kick - 1 Monthly Payment - Onetime Charges: $59.00</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Device>
+                    <category>X1 HD Service</category>
+                    <category>X1 Digital Service</category>
+                    <category>X1 CloudDVR - Monthly Charges: $7.99 </category>
+                </Device>
+            </Video>    
+        </custom>
+    </data>
+    
+    <data>
+        <name>X1 Premier Quad Play</name>
+        <price>$99.19</price>
+        <package>Monthly</package>
+        <description>XFINITY Home, XFINITY TV Digital Premier, XFINITY INTERNET</description>
+        <custom>
+             <Internet>
+                <Add-Ons>
+                  <category>Extreme 150</category>
+                </Add-Ons>
+            </Internet>
+            
+            <XfinityHome>
+                <Add-Ons>
+                  <category>Eco Saver - Monthly Charges: $6.95</category>
+                  <category>Takeover</category>
+                  <category>Fire MOnitoring</category>
+                  <category>Enhanced Video Monitoring - Monthly Charges: $6.95</category>
+                  <category>XFINITY HOme Warranty Plan - Monthly Charges: $4.95</category>
+                </Add-Ons>
+                <Devices>
+                  <category>Motion Sensor</category>
+                  <category>Wireless Router</category>
+                  <category>Door and Window Sensor</category>
+                  <category>Touch Screen</category>
+                  <category>Wireless Keypad</category>
+                </Devices>
+            </XfinityHome>
+            
+            <Phone>
+                <Add-Ons>
+                    <category>Xfinity Voice Activation Fee</category>
+                    <category>
+                        <Title>Directory Listing - Primary Choice</Title>
+                        <Subcategory>Non-Published Listing - Monthly Charges: $4.95</Subcategory>
+                        <Subcategory>Published Listing</Subcategory>
+                    </category>
+                    <category>
+                        <Title>Carefree Minutes - Latino</Title>
+                        <Subcategory>CareFree Minutes Latin America 300 minutes - Monthly Charges: $9.95</Subcategory>
+                        <Subcategory>CareFree Minutes Worldwide 300 minutes - Monthly Charges: $9.95</Subcategory>
+                    </category>
+                    <category> 
+                        <Title>(POS)XV Battery Backup Choice - NO Default Choice</Title>
+                        <Subcategory>Voice Backup Battery - Onetime Charges: $35.00</Subcategory>
+                        <Subcategory>Voice Backup Battery Decline</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Devices>
+                    <category>Wireless Gateway - Monthly Charges: $10.00</category>
+                </Devices>
+            </Phone>
+            
+            <Video>
+                <Add-Ons>
+                    <category>The Movie Channel - Monthly Charges: $12.00</category>
+                    <category>Showtime - Monthly Charges: $12.00</category>
+                    <category>Cinemax - Monthly Charges: $12.00</category>
+                    <category>Starz - Monthly Charges: $12.00</category>
+                    <category>Streampix</category>
+                    <category>HBO - Monthly Charges: $15.00</category>
+                    <category>contract Required</category>
+                    <category>Latino - Monthly Charges: $9.95</category>
+                    <category> Sports Tier - Monthly Charges: $9.95</category>
+                    <category>X1 Service Activation</category>
+                    <category> XH Contract Required</category>
+                    <category>
+                        <Title>MLB Extra Inning Choice</Title>
+                        <Subcategory>MLB Extra Innings 4 pay - Onetime Charges: $139.00</Subcategory>
+                        <Subcategory>MLb Extra Innings 1 pay - Onetime Charges: $139.00</Subcategory>
+                    </category>
+                    <category>
+                        <Title>MLS Direct Kick Regular Season choice</Title>
+                        <Subcategory>MLS Direct Kick - 4 Monthly payment - Onetime Charges: $59.00</Subcategory>
+                        <Subcategory>MLS Direct Kick - 1 Monthly Payment - Onetime Charges: $59.00</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Device>
+                    <category>X1 CloudDVR </category>
+                </Device>
+            </Video>
+        </custom>
+    </data>
+    
+        <data>
+        <name>3450 Latino Paquete Triple</name>
+        <price>$99.00</price>
+        <package>Monthly</package>
+        <description>XFINITY TV Digital Premier, XFINITY INTERNET</description>
+        <custom>
+             <Internet>
+                <Add-Ons>
+                  <category>Blast</category>
+                </Add-Ons>
+            </Internet>
+            
+            <Phone>
+                <Add-Ons>
+                    <category>3450 Latino Paquete Triple</category>
+                    <category>Xfinity Voice Activation Fee</category>
+                    <category>
+                        <Title>Directory Listing - Primary Choice</Title>
+                        <Subcategory>Non-Published Listing - Monthly Charges: $4.95</Subcategory>
+                        <Subcategory>Published Listing</Subcategory>
+                    </category>
+                    <category>
+                        <Title>Carefree Minutes - Latino</Title>
+                        <Subcategory>CareFree Minutes Latin America 300 minutes - Monthly Charges: $9.95</Subcategory>
+                        <Subcategory>CareFree Minutes Worldwide 300 minutes - Monthly Charges: $9.95</Subcategory>
+                    </category>
+                    <category> 
+                        <Title>(POS)XV Battery Backup Choice - NO Default Choice</Title>
+                        <Subcategory>Voice Backup Battery - Onetime Charges: $35.00</Subcategory>
+                        <Subcategory>Voice Backup Battery Decline</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Devices>
+                    <category>
+                        <Title>CDV Equipment Choice - XB3/Own</Title>
+                        <Subcategory>Wireless Gateway - Monthly Charges: $10.00</Subcategory>
+                        <Subcategory>Voice and Internet Modem Owned</Subcategory>
+                    </category>
+                </Devices>
+            </Phone>
+            
+            <Video>
+                <Add-Ons>
+                    <category>The Movie Channel - Monthly Charges: $12.00</category>
+                    <category>Showtime - Monthly Charges: $12.00</category>
+                    <category>Cinemax - Monthly Charges: $12.00</category>
+                    <category>Starz - Monthly Charges: $12.00</category>
+                    <category>Streampix</category>
+                    <category>HBO - Monthly Charges: $15.00</category>
+                    <category>contract Required</category>
+                    <category>Latino - Monthly Charges: $9.95</category>
+                    <category> Sports Tier - Monthly Charges: $9.95</category>
+                    <category>X1 Service Activation</category>
+                    <category> XH Contract Required</category>
+                    <category>
+                        <Title>MLB Extra Inning Choice</Title>
+                        <Subcategory>MLB Extra Innings 4 pay - Onetime Charges: $139.00</Subcategory>
+                        <Subcategory>MLb Extra Innings 1 pay - Onetime Charges: $139.00</Subcategory>
+                    </category>
+                    <category>
+                        <Title>MLS Direct Kick Regular Season choice</Title>
+                        <Subcategory>MLS Direct Kick - 4 Monthly payment - Onetime Charges: $59.00</Subcategory>
+                        <Subcategory>MLS Direct Kick - 1 Monthly Payment - Onetime Charges: $59.00</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Device>
+                    <category>X1 HD Service</category>
+                    <category>X1 Digital Service</category>
+                    <category>X1 CloudDVR </category>
+                </Device>
+            </Video>
+        </custom>
+    </data>
+    
+        <data>
+        <name>X1 Preferred Quad Play</name>
+        <price>$155.95</price>
+        <package>Monthly</package>
+        <description>XFINITY Home, XFINITY TV Digital Premier, XFINITY INTERNET</description>
+        <custom>
+             <Internet>
+                <Add-Ons>
+                  <category>Extreme 150</category>
+                  <category>Blast</category>
+                </Add-Ons>
+            </Internet>
+            
+            <XfinityHome>
+                <Add-Ons>
+                  <category>Eco Saver - Monthly Charges: $6.95</category>
+                  <category>Takeover</category>
+                  <category>Fire MOnitoring</category>
+                  <category>Enhanced Video Monitoring - Monthly Charges: $6.95</category>
+                  <category>XFINITY HOme Warranty Plan - Monthly Charges: $4.95</category>
+                </Add-Ons>
+                <Devices>
+                  <category>Motion Sensor</category>
+                  <category>Wireless Router</category>
+                  <category>Door and Window Sensor</category>
+                  <category>Touch Screen</category>
+                  <category>Wireless Keypad</category>
+                </Devices>
+            </XfinityHome>
+            
+            <Phone>
+                <Add-Ons>
+                    <category>Xfinity Voice Activation Fee</category>
+                    <category>
+                        <Title>Directory Listing- Primary Choice</Title>
+                        <Subcategory>Non-Published Listing - Monthly Charges: $4.95</Subcategory>
+                        <Subcategory>Published Listing</Subcategory>
+                    </category>
+                    <category>
+                        <Title>Carefree Minutes - Latino</Title>
+                        <Subcategory>CareFree Minutes Latin America 300 minutes - Monthly Charges: $9.95</Subcategory>
+                        <Subcategory>CareFree Minutes Worldwide 300 minutes - Monthly Charges: $9.95</Subcategory>
+                    </category>
+                    <category> 
+                        <Title>(POS)XV Battery Backup Choice - NO Default Choice</Title>
+                        <Subcategory>Voice Backup Battery - Onetime Charges: $35.00</Subcategory>
+                        <Subcategory>Voice Backup Battery Decline</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Devices>
+                    <category>
+                        <Title>CDV Equipment Choice - XB3/Own</Title>
+                        <subcategory>Wireless Gateway - Monthly Charges: $10.00</subcategory>
+                        <subcategory>Voice and Internet Modem Owned</subcategory>
+                    </category>
+                </Devices>
+            </Phone>
+            
+            <Video>
+                <Add-Ons>
+                    <category>The Movie Channel - Monthly Charges: $12.00</category>
+                    <category>Showtime - Monthly Charges: $12.00</category>
+                    <category>Cinemax - Monthly Charges: $12.00</category>
+                    <category>Starz - Monthly Charges: $12.00</category>
+                    <category>Streampix</category>
+                    <category>HBO - Monthly Charges: $15.00</category>
+                    <category>contract Required</category>
+                    <category>Latino - Monthly Charges: $9.95</category>
+                    <category> Sports Tier - Monthly Charges: $9.95</category>
+                    <category>X1 Service Activation</category>
+                    <category>XH Contract Required</category>
+                    <category>
+                        <Title>MLB Extra Inning Choice</Title>
+                        <Subcategory>MLB Extra Innings 4 pay - onetime Charges: $139.00</Subcategory>
+                        <Subcategory>MLb Extra Innings 1 pay - Onetime Charges: $139.00</Subcategory>
+                    </category>
+                    <category>
+                        <Title>MLS Direct Kick Regular Season choice</Title>
+                        <Subcategory>MLS Direct Kick - 4 Monthly payment - Onetime Charges: $59.00</Subcategory>
+                        <Subcategory>MLS Direct Kick - 1 Monthly Payment - Onetime Charges: $59.00</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Device>
+                    <category>X1 HD Service</category>
+                    <category>X1 CloudDVR </category>
+                </Device>
+            </Video>
+        </custom>
+    </data>
+    
+        <data>
+        <name>X1 Preferred Plus Quad Play</name>
+        <price>$169.99</price>
+        <package>Monthly</package>
+        <description>XFINITY Home, XFINITY TV Digital</description>
+        <custom>
+             <Internet>
+                <Add-Ons>
+                  <category>Extreme 150</category>
+                </Add-Ons>
+            </Internet>
+            
+            <XfinityHome>
+                <Add-Ons>
+                  <category>Eco Saver - Monthly Charges: $6.95</category>
+                  <category>Takeover</category>
+                  <category>Fire MOnitoring</category>
+                  <category>Enhanced Video Monitoring - Monthly Charges: $6.95</category>
+                  <category>XFINITY HOme Warranty Plan - Monthly Charges: $4.95</category>
+                </Add-Ons>
+                <Devices>
+                  <category>Motion Sensor</category>
+                  <category>Wireless Router</category>
+                  <category>Door and Window Sensor</category>
+                  <category>Touch Screen</category>
+                  <category>Wireless Keypad</category>
+                </Devices>
+            </XfinityHome>
+            
+            <Phone>
+                <Add-Ons>
+                    <category>Xfinity Voice Activation Fee</category>
+                    <category>
+                        <Title>Directory Listing - Primary Choice</Title>
+                        <Subcategory>Non-Published Listing - Monthly Charges: $4.95</Subcategory>
+                        <Subcategory>Published Listing</Subcategory>
+                    </category>
+                    <category>
+                        <Title>Carefree Minutes - Latino</Title>
+                        <Subcategory>CareFree Minutes Latin America 300 minutes - Monthly Charges: $9.95</Subcategory>
+                        <Subcategory>CareFree Minutes Worldwide 300 minutes - Monthly Charges: $9.95</Subcategory>
+                    </category>
+                    <category> 
+                        <Title>(POS)XV Battery Backup Choice - NO Default Choice</Title>
+                        <Subcategory>Voice Backup Battery - Onetime Charges: $35.00</Subcategory>
+                        <Subcategory>Voice Backup Battery Decline</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Devices>
+                    <category>Wireless Gateway - Monthly Charges: $10.00</category>
+                </Devices>
+            </Phone>
+            
+            <Video>
+                <Add-Ons>
+                    <category>The Movie Channel - Monthly Charges: $12.00</category>
+                    <category>Showtime - Monthly Charges: $12.00</category>
+                    <category>Cinemax - Monthly Charges: $12.00</category>
+                    <category>Starz - Monthly Charges: $12.00</category>
+                    <category>Streampix</category>
+                    <category>HBO - Monthly Charges: $15.00</category>
+                    <category>contract Required</category>
+                    <category>Latino - Monthly Charges $9.95</category>
+                    <category> Sports Tier - Monthly Charges: $9.95</category>
+                    <category>X1 Service Activation</category>
+                    <category> XH Contract Required</category>
+                    <category>
+                        <Title>MLB Extra Inning Choice</Title>
+                        <Subcategory>MLB Extra Innings 4 pay - Onetime Charges: $139.00</Subcategory>
+                        <Subcategory>MLb Extra Innings 1 pay - Onetime Charges: $139.00</Subcategory>
+                    </category>
+                    <category>
+                        <Title>MLS Direct Kick Regular Season choice</Title>
+                        <Subcategory>MLS Direct Kick - 4 Monthly payment - Onetime Charges: $59.00</Subcategory>
+                        <Subcategory>MLS Direct Kick - 1 Monthly Payment - Onetime Charges: $59.00</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Device>
+                    <category>X1 HD Services</category>
+                    <category>X1 CloudDVR </category>
+                </Device>
+            </Video>
+        </custom>
+    </data>
+    
+        <data>
+        <name>X1 Premier Triple Play</name>
+        <price>$149.99</price>
+        <package>Monthly</package>
+        <description> XFINITY TV Digital Premier, XFINITY INTERNET, XFINITY Voice</description>
+        <custom>
+             <Internet>
+                <Add-Ons>
+                  <category>Extreme 150</category>
+                </Add-Ons>
+            </Internet>
+    
+            <Phone>
+                <Add-Ons>
+                    <category>Xfinity Voice Activation Fee</category>
+                    <category>
+                        <Title>Directory Listing - Primary Choice</Title>
+                        <Subcategory>Non-Published Listing - Monthly Charges: $4.95</Subcategory>
+                        <Subcategory>Published Listing</Subcategory>
+                    </category>
+                    <category>
+                        <Title>Carefree Minutes - Latino</Title>
+                        <Subcategory>CareFree Minutes Latin America 300 minutes - Monthly Charges: $9.95</Subcategory>
+                        <Subcategory>CareFree Minutes Worldwide 300 minutes - Monthly Charges: $9.95</Subcategory>
+                    </category>
+                    <category> 
+                        <Title>(POS)XV Battery Backup Choice - NO Default Choice</Title>
+                        <Subcategory>Voice Backup Battery - Onetime Charges: $35.00</Subcategory>
+                        <Subcategory>Voice Backup Battery Decline</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Devices>
+                    <category>Wireless Gateway - Monthly Charges: $10.00</category>
+                </Devices>
+            </Phone>
+            
+            <Video>
+                <Add-Ons>
+                    <category>The Movie Channel - Monthly Charges: $12.00</category>
+                    <category>Showtime - Monthly Charges: $12.00</category>
+                    <category>Cinemax - Monthly Charges: $12.00</category>
+                    <category>Starz - Monthly Charges: $12.00</category>
+                    <category>Streampix</category>
+                    <category>HBO - Monthly Charges: $15.00</category>
+                    <category>contract Required</category>
+                    <category>Latino - Monthly Charges: $9.95</category>
+                    <category> Sports Tier - Monthly Charges: $9.95</category>
+                    <category>X1 Service Activation</category>
+                    <category> XH Contract Required</category>
+                    <category>
+                        <Title>MLB Extra Inning Choice</Title>
+                        <Subcategory>MLB Extra Innings 4 pay - Onetime Charges: $139.00</Subcategory>
+                        <Subcategory>MLb Extra Innings 1 pay - Onetime Charges: $139.00</Subcategory>
+                    </category>
+                    <category>
+                        <Title>MLS Direct Kick Regular Season choice</Title>
+                        <Subcategory>MLS Direct Kick - 4 Monthly payment - Onetime Charges: $59.00</Subcategory>
+                        <Subcategory>MLS Direct Kick - 1 Monthly Payment - Onetime Charges: $59.00</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Device>
+                    <category>X1 HD Services</category>
+                    <category>X1 CloudDVR </category>
+                </Device>
+            </Video>
+        </custom>
+    </data>
+    
+        <data>
+        <name>3650 Latino Paquete Triple</name>
+        <price>$129.99</price>
+        <package>Monthly</package>
+        <description>XFINITY Home, XFINITY TV Digital Premier, XFINITY INTERNET</description>
+        <custom>
+             <Internet>
+                <Add-Ons>
+                  <category>Extreme 150</category>
+                  <caetegory2>Blast</caetegory2>
+                </Add-Ons>
+            </Internet>
+            
+            <Phone>
+                <Add-Ons>
+                    <category>Xfinity Voice Activation Fee</category>
+                    <category>
+                        <Title>Directory Listing - Primary Choice</Title>
+                        <Subcategory>Non-Published Listing - Monthly Charges: $4.95</Subcategory>
+                        <Subcategory>Published Listing</Subcategory>
+                    </category>
+                    <category>
+                        <Title>Carefree Minutes - Latino</Title>
+                        <Subcategory>CareFree Minutes Latin America 300 minutes - Monthly Charges: $9.95</Subcategory>
+                        <Subcategory>CareFree Minutes Worldwide 300 minutes - Monthly Charges: $9.95</Subcategory>
+                    </category>
+                    <category> 
+                        <Title>(POS)XV Battery Backup Choice - NO Default Choice</Title>
+                        <Subcategory>Voice Backup Battery - Onetime Charges: $35.00</Subcategory>
+                        <Subcategory>Voice Backup Battery Decline</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Devices>
+                    <category>
+                        <Title>CDV Equipment Choice - XB3</Title>
+                        <Subcategory>Wireless Gateway - Monthly Charges: $10.00</Subcategory>
+                        <Subcategory>Voice and Internet Modem Owned</Subcategory>
+                    </category>
+                </Devices>
+            </Phone>
+            
+            <Video>
+                <Add-Ons>
+                    <category>The Movie Channel - Monthly Charges: $12.00</category>
+                    <category>Showtime - Monthly Charges: $12.00</category>
+                    <category>Cinemax - Monthly Charges: $12.00</category>
+                    <category>Starz - Monthly Charges: $12.00</category>
+                    <category>Streampix</category>
+                    <category>HBO - Monthly Charges: $15.00</category>
+                    <category>contract Required</category>
+                    <category>Latino - Monthly Charges: $9.95</category>
+                    <category> Sports Tier - Monthly Charges: $9.95</category>
+                    <category>X1 Service Activation</category>
+                    <category> XH Contract Required</category>
+                    <category>
+                        <Title>MLB Extra Inning Choice</Title>
+                        <Subcategory>MLB Extra Innings 4 pay - Onetime Charges: $139.00</Subcategory>
+                        <Subcategory>MLb Extra Innings 1 pay - Onetime Charges: $139.00</Subcategory>
+                    </category>
+                    <category>
+                        <Title>MLS Direct Kick Regular Season choice</Title>
+                        <Subcategory>MLS Direct Kick - 4 Monthly payment - Onetime Charges: $59.00</Subcategory>
+                        <Subcategory>MLS Direct Kick - 1 Monthly Payment - Onetime Charges: $59.00</Subcategory>
+                    </category>
+                </Add-Ons>
+                <Device>
+                    <category>X1 HD Service </category>
+                    <category>X1 Cloud DVR - Monthly Charges: $7.99 </category>
+                </Device>
+            </Video>
+        </custom>
+    </data>
+</offer>
